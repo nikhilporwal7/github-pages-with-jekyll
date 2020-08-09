@@ -1,4 +1,3 @@
-
 ---
 title: "My-THOUGHTS-Goals"
 date: 2020-08-09
