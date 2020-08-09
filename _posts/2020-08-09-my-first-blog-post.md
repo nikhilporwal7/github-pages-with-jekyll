@@ -1,5 +1,8 @@
-title: My Diary - Goals
+---
+title: "My-THOUGHTS-Goals"
+date: 2020-08-09
 author: LifeGamer
+---
 email: nikhilporwal7+github@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   upcoming things in my life
